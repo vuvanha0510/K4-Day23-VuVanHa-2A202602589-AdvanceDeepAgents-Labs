@@ -1,0 +1,122 @@
+[
+  {
+    "n": 1,
+    "id": "2505.02686",
+    "url": "https://arxiv.org/abs/2505.02686",
+    "title": "A Survey on Reward Models and Learning Strategies for Large Language Models",
+    "date": "2025-05-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2512.07611",
+    "url": "https://arxiv.org/abs/2512.07611",
+    "title": "A Systematic Comparison of PPO, GRPO, and DAPO for Reinforcement Learning in LLMs",
+    "date": "2025-12-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2402.03300",
+    "url": "https://arxiv.org/abs/2402.03300",
+    "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+    "date": "2024-04-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2602.09305",
+    "url": "https://arxiv.org/abs/2602.09305",
+    "title": "Reward Modeling for Reinforcement Learning-Based LLM Reasoning",
+    "date": "2026-02-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2501.12948",
+    "url": "https://arxiv.org/abs/2501.12948",
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "date": "2025-01-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2505.11227",
+    "url": "https://arxiv.org/abs/2505.11227",
+    "title": "Is PRM Necessary? Problem-Solving RL Implicitly Induces PRM Capability in LLMs",
+    "date": "2025-05-16",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2509.23250",
+    "url": "https://huggingface.co/papers/2509.23250",
+    "title": "Training Vision-Language Process Reward Models for Test-Time Scaling in Multimodal Reasoning",
+    "date": "2025-09-27",
+    "source": "hf-daily"
+  },
+  {
+    "n": 8,
+    "id": "qwq-32b",
+    "url": "https://qwenlm.github.io/blog/qwq-32b/",
+    "title": "QwQ-32B: Embracing the Power of Reinforcement Learning",
+    "date": "2025-03-06",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2025.emnlp-industry.35",
+    "url": "https://aclanthology.org/2025.emnlp-industry.35.pdf",
+    "title": "RLHF Algorithms Ranked: An Extensive Evaluation Across Diverse Tasks, Rewards, and Hyperparameters",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "2606.19354",
+    "url": "https://arxiv.org/abs/2606.19354",
+    "title": "Granularity-Regulated Adaptive Computational Efficiency for Optimal Verification in Test-Time Scaling",
+    "date": "2026-04-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2507.05557",
+    "url": "https://arxiv.org/abs/2507.05557",
+    "title": "Enhancing Test-Time Scaling of Large Language Models with Hierarchical Retrieval-Augmented MCTS (R2-LLMs)",
+    "date": "2025-07-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2510.16916",
+    "url": "https://arxiv.org/abs/2510.16916",
+    "title": "SolverLLM: Leveraging Test-Time Scaling for Optimization Problem via LLM-Guided Search",
+    "date": "2025-10-19",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "2502.13575",
+    "url": "https://huggingface.co/papers/2502.13575",
+    "title": "Efficient Tree Search for Inference-Time Scaling (ETS)",
+    "date": "2025-02-19",
+    "source": "hf-daily"
+  },
+  {
+    "n": 14,
+    "id": "2502.06703",
+    "url": "https://huggingface.co/papers/2502.06703",
+    "title": "Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling",
+    "date": "2025-02-10",
+    "source": "hf-daily"
+  },
+  {
+    "n": 15,
+    "id": "2503.20783",
+    "url": "https://huggingface.co/papers/2503.20783",
+    "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+    "date": "2025-03-26",
+    "source": "hf-daily"
+  }
+]

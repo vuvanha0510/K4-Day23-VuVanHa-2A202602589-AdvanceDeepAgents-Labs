@@ -1,0 +1,194 @@
+[
+  {
+    "n": 1,
+    "id": "2409.15790",
+    "url": "https://arxiv.org/abs/2409.15790",
+    "title": "Small Language Models: Survey, Measurements, and Insights",
+    "date": "2025-02-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "3711896.3736563",
+    "url": "https://dl.acm.org/doi/10.1145/3711896.3736563",
+    "title": "A Survey on Small Language Models in the Era of Large Language Models: Architecture, Capabilities, and Trustworthiness",
+    "date": "2025-08-03",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "10.1007/s10462-026-11651-1",
+    "url": "https://link.springer.com/article/10.1007/s10462-026-11651-1",
+    "title": "I/O for LLM inference: a survey of storage and memory bottlenecks",
+    "date": "2026-07-24",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "AREA-202606-Nguyen",
+    "url": "https://www.cs.uoregon.edu/Reports/AREA-202606-Nguyen.pdf",
+    "title": "Efficient LLM Inference: A Survey",
+    "date": "2026-06-01",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "2402.16363",
+    "url": "https://arxiv.org/html/2402.16363",
+    "title": "LLM Inference Unveiled: Survey and Roofline Model Insights",
+    "date": "2024-02-27",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2404.14294v2",
+    "url": "https://arxiv.org/html/2404.14294v2",
+    "title": "A Survey on Efficient Inference for Large Language Models",
+    "date": "2024-04-24",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "f3p3f835b4x",
+    "url": "https://exa.ai/library/publication/f3p3f835b4x",
+    "title": "Nano large language model of 125 million-parameter for STEM education",
+    "date": "2026-03-17",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "n/a-nvidia-minitron",
+    "url": "https://developer.nvidia.com/blog/how-to-prune-and-distill-llama-3-1-8b-to-an-nvidia-llama-3-1-minitron-4b-model/",
+    "title": "How to Prune and Distill Llama-3.1 8B to an NVIDIA Llama-3.1-Minitron 4B Model",
+    "date": "2024-08-14",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "236f915dd02af4f11927f67330b21d4b-Paper-Conference",
+    "url": "https://proceedings.mlsys.org/paper_files/paper/2026/file/236f915dd02af4f11927f67330b21d4b-Paper-Conference.pdf",
+    "title": "ExecuTorch: A Unified PyTorch-Specific Solution to Run Models On-Device",
+    "date": "2026-02-01",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "2407.05858",
+    "url": "https://huggingface.co/papers/2407.05858",
+    "title": "Empowering 1000 tokens/second on-device LLM prefilling with mllm-NPU",
+    "date": "2024-07-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "mediapipe-llm-inference",
+    "url": "https://developers.google.com/edge/mediapipe/solutions/genai/llm_inference",
+    "title": "Google AI Edge: MediaPipe and LiteRT-LM LLM Inference API",
+    "date": "2024-01-01",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "ollama-architecture",
+    "url": "https://factory.ai/open-source-wikis/ollama?page=overview%2Farchitecture.md",
+    "title": "Ollama Architecture and Hardware Support",
+    "date": "2026-07-30",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "phi-2-blog",
+    "url": "https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/",
+    "title": "Phi-2: The surprising power of small language models",
+    "date": "2023-12-12",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "2411.13157v1",
+    "url": "https://arxiv.org/html/2411.13157v1",
+    "title": "A Survey of Speculative Decoding",
+    "date": "2024-11-20",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "2025.acl-long.718",
+    "url": "https://aclanthology.org/anthology-files/anthology-files/pdf/acl/2025.acl-long.718.pdf",
+    "title": "Demystifying Small Language Models for Edge Deployment",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "2510.03847",
+    "url": "https://huggingface.co/papers/2510.03847",
+    "title": "Small Language Models for Agentic Systems: A Survey of Architectures, Capabilities, and Deployment Trade offs",
+    "date": "2025-10-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 17,
+    "id": "2402.11131",
+    "url": "https://huggingface.co/papers/2402.11131",
+    "title": "Speculative Streaming: Fast LLM Inference without Auxiliary Models",
+    "date": "2024-02-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 18,
+    "id": "2608.15693v1",
+    "url": "https://arxiv.org/pdf/2608.15693v1",
+    "title": "Large Models for Small Devices: Recent Advances and Empirical Analysis of Edge AI Deployment",
+    "date": "2026-08-15",
+    "source": "web"
+  },
+  {
+    "n": 19,
+    "id": "2204.00408",
+    "url": "https://huggingface.co/papers/2204.00408",
+    "title": "Structured Pruning Learns Compact and Accurate Models (CoFi)",
+    "date": "2022-04-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 20,
+    "id": "2405.20541",
+    "url": "https://huggingface.co/papers/2405.20541",
+    "title": "Perplexed by Perplexity: Perplexity-Based Data Pruning With Small Reference Models",
+    "date": "2024-05-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 21,
+    "id": "2604.09083",
+    "url": "https://huggingface.co/papers/2604.09083",
+    "title": "EdgeFlow: Fast Cold Starts for LLMs on Mobile Devices",
+    "date": "2026-04-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 22,
+    "id": "2406.10290",
+    "url": "https://huggingface.co/papers/2406.10290",
+    "title": "MobileAIBench: Benchmarking LLMs and LMMs for On-Device Use Cases",
+    "date": "2024-06-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 23,
+    "id": "2504.00002",
+    "url": "https://huggingface.co/papers/2504.00002",
+    "title": "Are We There Yet? A Measurement Study of Efficiency for LLM Applications on Mobile Devices",
+    "date": "2025-03-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 24,
+    "id": "arxiv-2409.00088v1",
+    "url": "https://arxiv.org/html/2409.00088v1",
+    "title": "On-Device Language Models: A Comprehensive Review",
+    "date": "2024-09-01",
+    "source": "web"
+  }
+]

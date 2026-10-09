@@ -1,0 +1,170 @@
+[
+  {
+    "n": 1,
+    "id": "2606.00133",
+    "url": "https://arxiv.org/abs/2606.00133",
+    "title": "World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications",
+    "date": "2026-05-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2604.22748",
+    "url": "https://arxiv.org/abs/2604.22748",
+    "title": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
+    "date": "2026-04-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2606.00133-web",
+    "url": "https://arxiv.org/html/2606.00133",
+    "title": "World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications (Web Survey)",
+    "date": "2026-05-28",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "1803.10122",
+    "url": "https://arxiv.org/abs/1803.10122",
+    "title": "Recurrent World Models Facilitate Policy Evolution",
+    "date": "2018-03-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2402.17177",
+    "url": "https://huggingface.co/papers/2402.17177",
+    "title": "Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models",
+    "date": "2024-02-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2411.00769",
+    "url": "https://huggingface.co/papers/2411.00769",
+    "title": "GameGen-X: Interactive Open-world Game Video Generation",
+    "date": "2024-11-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2404.08471",
+    "url": "https://arxiv.org/abs/2404.08471",
+    "title": "Revisiting Feature Prediction for Learning Visual Representations from Video (V-JEPA)",
+    "date": "2024-04-08",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "2412.10925",
+    "url": "https://arxiv.org/abs/2412.10925",
+    "title": "Video Representation Learning with Joint-Embedding Predictive Architectures (VJ-VCR)",
+    "date": "2024-12-10",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2405.03520",
+    "url": "https://huggingface.co/papers/2405.03520",
+    "title": "Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond",
+    "date": "2024-05-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "bruce24a",
+    "url": "https://proceedings.mlr.press/v235/bruce24a.html",
+    "title": "Genie: Generative Interactive Environments",
+    "date": "2024-07-08",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2609.29669",
+    "url": "https://arxiv.org/abs/2609.29669",
+    "title": "Do World Models Make Better Robots?",
+    "date": "2026-09-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "state-of-world-models-2026",
+    "url": "https://world-models.io/reports/state-of-world-models-2026/state-of-world-models-2026-v1.0.pdf",
+    "title": "State of World Models 2026: Taxonomy, Benchmarks and Open Challenges",
+    "date": "2026-01-01",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "2605.00080",
+    "url": "https://arxiv.org/abs/2605.00080",
+    "title": "World Model for Robot Learning: A Comprehensive Survey",
+    "date": "2026-05-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "2411.02385",
+    "url": "https://huggingface.co/papers/2411.02385",
+    "title": "How Far is Video Generation from World Model: A Physical Law Perspective",
+    "date": "2024-11-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "10.990",
+    "url": "https://www.mdpi.com/1099-4300/27/6/570",
+    "title": "Deep Hybrid Models: Infer and Plan in a Dynamic World",
+    "date": "2025-05-27",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "10.1016",
+    "url": "https://dl.acm.org/doi/10.1016/j.cosrev.2026.100902",
+    "title": "Neuro-symbolic Agentic AI: Architectures, Integration Patterns, Applications, Open Challenges and Future Research Directions",
+    "date": "2026-06-24",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "2603.28489",
+    "url": "https://arxiv.org/abs/2603.28489",
+    "title": "Video Generation Models as World Models: Efficient Paradigms, Architectures, and Inference Algorithms",
+    "date": "2026-03-28",
+    "source": "web"
+  },
+  {
+    "n": 18,
+    "id": "2501.11260",
+    "url": "https://arxiv.org/abs/2501.11260",
+    "title": "A Survey of World Models for Autonomous Driving",
+    "date": "2025-01-18",
+    "source": "arxiv"
+  },
+  {
+    "n": 19,
+    "id": "2510.16732",
+    "url": "https://huggingface.co/papers/2510.16732",
+    "title": "A Comprehensive Survey on World Models for Embodied AI",
+    "date": "2025-10-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 20,
+    "id": "3746449",
+    "url": "https://dl.acm.org/doi/10.1145/3746449",
+    "title": "Understanding World or Predicting Future? A Comprehensive Survey of World Models",
+    "date": "2025-09-09",
+    "source": "web"
+  },
+  {
+    "n": 21,
+    "id": "2506.21876",
+    "url": "https://huggingface.co/papers/2506.21876",
+    "title": "Do Vision-Language Models Have Internal World Models? Towards an Atomic Evaluation",
+    "date": "2026-06-27",
+    "source": "hf-search"
+  }
+]
